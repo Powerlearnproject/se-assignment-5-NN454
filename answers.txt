@@ -1,0 +1,94 @@
+Answers:
+ 1. Installation of VS Code;
+
+  Navigate to your favourite browers and search download visual studio code 
+  Click on the "Download for Windows" button to download the installer,run the installerand follow the steps to 
+  complete the installation Once the installation is complete, ensure the option to "Launch Visual Studio Code" is 
+  checked and click "Finish". and you will have your VS Code installed 
+  Prerequisites:
+  Ensure your laptop has windows 11 and a stable Network connectivity 
+
+2. First-time Setup;
+
+After u have open your Vs code it will welcome you with a welcoming message from their you can choose your theme by 
+navigating to file >preference >theme>color theme after that u can go to settings and set-up your profile, font size
+and you will be able to see the extension that you have. To be able to inatall etension just go to the sidebar of your
+vs and click extension u can install Python extension,code runner, Pylancer and many more .
+
+3. User Interface Overview;
+
+This are the of the vs code Interface:
+                                      Activity Bar:
+Located on the far left, it lets you switch between views and gives access to various functions such as Explorer, 
+Search, Source Control, and Extensions.
+                                     Side Bar:
+Contains different views like the Explorer (file navigation), Source Control, and Extensions. 
+It displays the context of the currently selected activity.
+                                     Editor Group:
+This is the central part of the interface where you edit your code. You can open multiple editors side by side in 
+editor groups.
+                                      Status Bar:
+Located at the bottom of the window, it provides information about the current file, such as line and column number, file type, and encoding. 
+It also shows the current Git branch and errors/warnings in the code.
+
+4. Command Palette;
+
+The command palette is were all command are found You can navigate to it by clicking "ctrl,shift+P" ,some of the task that you can perform 
+using the command palette is You can Runing Task lets take an example you were coding an html file and You would like to open it in a 
+brower You put the RUN command at it will open in a brower whatever you had code .
+
+5. Extensions in VS Code:
+
+Extensions enhance the functionality of VS Code by adding features like syntax highlighting and debugging tools.Users can find the Extension 
+on the Activity Bar or by clicking (Ctrl ,shift + X) they can search the extions they would like to install and go ahead and install it 
+some of the extension to install for Web development are Prettier which is a code editor,Live server and also Debugger
+for chrome.
+
+6. Integrated Terminal:
+
+In order to open Integrated terminal Navigate to the View tab and go to the terminal it will open a new terminal.
+The advantage of using the Integrated terminal are :
+It Easily open and switch between multiple terminal instances within VS Code using shortcuts (Ctrl + ) or the terminal dropdown menu.
+The integrated terminal automatically opens in the root directory of your workspace, ensuring that commands and scripts are executed in the 
+correct project context without needing to manually navigate to the right directory.
+You can split the terminal view to run multiple terminal sessions side by side or resize the terminal pane as needed for better visibility.
+
+7. File and Folder Management:
+
+To be able to create file , open ,create ,manage file and folders 
+You will navigate to FILE tab their you will see new file if you had already created and You would like to open it You 
+can open file and it will direct You to File explorer u can select your file from there and for the case of creating 
+an folder You will create a folder in the File Explorer and in Vs code You will open Folder and choose the folder 
+that You had created earlier .
+
+8. Settings and Preferences:
+
+To be able to chenge theme,  font size, and keybindings You will navigate to VS code setting there You will see the 
+theme of which is dark or light according to your prefrence u will choose one same case applys for the font size 
+for the keybindings go to File > Preferences > Keyboard Shortcuts and Customize shortcuts by clicking on the
+ action and pressing the new key combination.
+
+ 9.Debugging in VS Code:
+
+ This are the steps followed in order to start debugging
+ You will need to have a Project that has a file with a py go ahead and open the Debug View press Ctrl + Shift + D.
+From there create a debug configurtion Click on the gear icon or the "create a launch.json file" link to open the
+ launch.json configuration file.Select "Python" as the environment if prompted,and start debugging
+  Key debugging features are 
+ Breakpoints
+ Watch variables
+ Step through code
+ Debug console
+
+10. Using Source Control:
+You should have GIT installed with Git Hub and then navigate to your Vs code an open the Source Control View
+in the activity bar ,In the Source Control view, you’ll see a button labeled "Initialize Repository". Click on it.
+VS Code will create a .git directory in the root of your project folder, indicating that it is now a Git repository.
+Make commit Open the Explorer view (Ctrl + Shift + E) and make some changes to your files and commit your changes 
+and push it to GitHub were you would have created your repository and push your changes .
+
+
+
+
+
+
